@@ -27,7 +27,9 @@
 
 // Font.
 	$font: (
-		family:				('Roboto', Helvetica, sans-serif),
+		// family:				('Roboto', Helvetica, sans-serif),
+		family:				('Anonymous Pro', monospace),
+		family-heading:		('Smooch', cursive),
 		family-fixed:		('Courier New', monospace),
 		weight:				400,
 		weight-bold:		700
@@ -35,11 +37,11 @@
 
 // Palette.
 	$palette: (
-		page-bg:			#101010,
-		bg:					#fff,
-		fg:					#aaa,
-		fg-bold:			#555,
-		fg-light:			#ccc,
-		border:				#ccc,
-		accent:				#00D3B7
+		page-bg:			#0D0D0D,
+		bg:					#0D0D0D,
+		fg:					#737373,
+		fg-bold:			#D9D9D9,
+		fg-light:			#D9D9D9,
+		border:				#D9D9D9,
+		accent:				#A6A6A6
 	);
